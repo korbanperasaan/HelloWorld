@@ -1,1 +1,1 @@
-echo 'HelloWorld'
+printf "Hello World !\n"
